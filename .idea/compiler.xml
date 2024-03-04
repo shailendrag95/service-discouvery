@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="api-gatway" />
+        <module name="config-server" />
         <module name="discouvery" />
         <module name="tow" />
         <module name="three" />
@@ -17,6 +18,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api-gatway" options="-parameters" />
+      <module name="config-server" options="-parameters" />
       <module name="discouvery" options="-parameters" />
       <module name="one" options="-parameters" />
       <module name="three" options="-parameters" />
