@@ -1,0 +1,15 @@
+package com.service.three;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+
+@SpringBootApplication
+@EnableDiscoveryClient
+public class PricingCatalogApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PricingCatalogApplication.class, args);
+	}
+
+}

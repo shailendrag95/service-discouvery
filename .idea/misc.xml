@@ -11,11 +11,13 @@
         <option value="$PROJECT_DIR$/discouvery/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/two/pom.xml" />
+        <option value="$PROJECT_DIR$/PricingCatalog/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductCatalog/pom.xml" />
+        <option value="$PROJECT_DIR$/oms/pom.xml" />
       </list>
     </option>
-    <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="graalvm-jdk-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
